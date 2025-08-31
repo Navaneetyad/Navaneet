@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Navaneet Yadav  
+# 👋 Hi, I'm Navaneet
 
 🎓 **B.Tech (Specialization in Data Science, Computer Science)**  
 📍 IILM University  
@@ -15,13 +15,13 @@ With a strong foundation in programming and data-driven technologies, I aim to b
 - **Programming Languages**: C, Java, Python  
 - **Data Structures**: Java  
 - **Web Development**: HTML, CSS, JavaScript  
-- **Specialization**: Data Science & IoT  
+- **Specialization**: Data Science
 
 ---
 
 ## 📜 Certifications  
 - ✅ Foundation in Data Science – *Infosys Springboard*  
-- ✅ Certification in IoT  
+- ✅ Certification in IoT  -*Infosys Springboard
 - ✅ Certification in Python – *Infosys Springboard*  
 - ✅ Certification in C – *Infosys Springboard*  
 
